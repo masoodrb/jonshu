@@ -13,9 +13,9 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
-import jonshu.Syntax.*;
-import jonshu.Utils.StringBuilderCache;
-import jonshu.Runtime.FlagsAttribute;
+import jonshu.runtime.FlagsAttribute;
+import jonshu.syntax.*;
+import jonshu.utils.StringBuilderCache;
 
 public class TexlLexer {
 

@@ -1,4 +1,4 @@
-package jonshu.Utils;
+package jonshu.utils;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

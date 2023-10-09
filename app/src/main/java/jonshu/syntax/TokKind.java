@@ -1,4 +1,4 @@
-package jonshu.Syntax;
+package jonshu.syntax;
 
 /**
  * Kinds of tokens.

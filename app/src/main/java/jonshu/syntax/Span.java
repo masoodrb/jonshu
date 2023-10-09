@@ -1,4 +1,4 @@
-package jonshu.Syntax;
+package jonshu.syntax;
 
 
 import java.util.Comparator;
